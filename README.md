@@ -1041,4 +1041,4 @@ If this is the case then run another script in background and add some delay the
 
 
 
-ALL CREDITS TO PROJECT ZAPRET by bol-van, this is just an fork with English Readme
+ALL CREDITS TO PROJECT ZAPRET by bol-van, this is just an fork with English Readme for Personal use
